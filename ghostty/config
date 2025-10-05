@@ -1,0 +1,9 @@
+background-opacity = 0.9
+background-blur = true
+theme = oxocarbon
+
+font-size = 16
+mouse-hide-while-typing = true
+macos-titlebar-style = hidden
+
+keybind = global:alt+enter=toggle_quick_terminal

@@ -1,0 +1,1 @@
+/Users/jay/.local/share/colorshift/themes/oxocarbon/nvim.lua
